@@ -1,5 +1,5 @@
 # **Selective-HCN: Selective Hypergraph Convolutional Networks for Skeleton-based Action Recognition**
-This repository is the **anonymous** Pytorch implementation of the Selective-HCN method.
+This repository is the  Pytorch implementation of the Selective-HCN method.
 
 <img src="imgs/Modules.png" style="zoom:80%">
 
